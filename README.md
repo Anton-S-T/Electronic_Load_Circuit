@@ -3,6 +3,6 @@
 A circuit to sink 3A at a Voltage of up to 30V
 
 Layout:
-![image](https://user-images.githubusercontent.com/103216308/196783480-2bc2fc30-3d09-4c29-a503-87c731b5b866.png)
+![image](https://user-images.githubusercontent.com/103216308/197331351-95520fea-416a-49f1-8842-d2e39c819f46.png)
 
 WIP
